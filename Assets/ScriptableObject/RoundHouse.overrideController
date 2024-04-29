@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RoundHouse
+  m_Controller: {fileID: 9100000, guid: eedc396b003ddf6438e5de6d202d8bc6, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 6156f8a7367fc1e4c98794fe2e3555f5, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: d53a619ed5f6b81428be40c49fbbc991, type: 3}
